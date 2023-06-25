@@ -1,0 +1,71 @@
+*{
+/*   border: solid 1px ; */
+  font-family: 標楷體 ;
+  position: relative;
+  
+}
+html,body{
+  width: 100% ; height: 100% ;
+  padding: 0px ; margin: 0px ;
+  
+}
+body{
+  color: rgb(212, 212, 212);
+  font-size: 20px;
+  background-color: #000000 ;
+  border-top: solid 20px #c1f2f6;
+  border-bottom: solid 20px #c1f2f6;
+  box-sizing: border-box
+}
+.namecard{
+  width: 400px ; height:400px;
+  padding:20px ;
+  margin-left: auto ;
+  margin-right: auto;
+  margin-top: 100px ;
+ 
+  letter-spacing: 1px;
+  background-color: #ffffff;
+  color:rgb(0, 0, 0);
+  
+  overflow: hidden;
+  border: solid 5px #c1f2f6;
+  border-radius: 50px;  
+    
+  
+}
+
+.namecard h2{
+  font-size: 30px;
+}
+
+.namecard span{
+  font-size: 12px;
+}
+
+.namecard h4{
+  margin-top: 5px;
+  font-size: 14px;
+  color: #b10303
+}
+
+.namecard p{
+  font-size: 12px ;
+  font-weight: 200;
+  line-height: 22px ;
+}
+.circle{
+  width: 100px; height: 100px;
+  border-radius: 100%;
+  position: absolute;
+}
+.circle1{
+  right: 40px;
+  top: -70px;
+  border: solid 5px #c1f2f6;
+}
+.circle2{
+  left: 30px;
+  bottom: -77px;
+  border: solid 5px #c1f2f6;
+}
