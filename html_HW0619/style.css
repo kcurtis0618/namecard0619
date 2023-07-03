@@ -10,7 +10,7 @@ html,body{
   
 }
 body{
-  background-image: linear-gradient(to bottom, #fdfdfd, #a9a7a7);
+  background-image: linear-gradient(to top, #fdfdfd, #a9a7a7);
   color: rgb(212, 212, 212);
   font-size: 20px;
   background-color: #010000;
